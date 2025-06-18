@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm passionate about building things that live on 
 
 ## 🚀 About Me
 - 🧠 I love working with **JavaScript**, **React**, **Python**, and **Firebase/Supabase**
-- 🔭 I’m currently working on: [Your current project or goal]
-- 🌱 I’m learning: [What you’re learning]
+- 🔭 I’m currently working on: ACAP-Zampen System
+- 🌱 I’m learning: Javascript
 - 💬 Ask me about: React, Electron, Supabase, TypeScript
-- 📫 How to reach me: [Your email or social link]
+- 📫 How to reach me: ghemhope@gmail.com
 - ⚡ Fun fact: I probably drink more coffee than I should ☕️
 
 ## 🛠️ Tech Stack

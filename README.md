@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm passionate about building things that live on the internet.
 
 ## 🚀 About Me
-- 🧠 I love working with **JavaScript**, **React**, **Python**, and **Firebase/Supabase**
-- 🔭 I’m currently working on ACAP-Zampen System enhancement
+- 🧠 I love working with **JavaScript**, **React**, **PHP** and **Firebase/Supabase**
+- 🔭 I’m currently working on ACAP-Zampen System
 - 🌱 I’m learning Javascript
 - 📫 How to reach me: ghemhope@gmail.com
 - ⚡ Fun fact: I probably drink more coffee than I should ☕️
